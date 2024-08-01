@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: Raleway, sans-serif;
+}
+
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: .4s;
+}
+
+#header {
+    background: #1B1B1B;
+    padding: 24px 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-navbar a {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    color: #9C9C9C;
+    padding-right: 70px;
+}
+
+.header-ions {
+    display: flex;
+    align-items: center;
+}
+
+.header-ions a {
+    color: silver;
+    font-size: 22px;
+    padding-left: 24px;
+}
