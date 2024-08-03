@@ -122,3 +122,200 @@ button {
 .hero-text {
     padding-right: 150px;
 }
+
+#case {
+    padding: 80px 0;
+}
+
+.case h1 {
+    font-size: 34px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.case p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #9C9C9C;
+    padding: 10px 0 60px 0;
+}
+
+.case-general {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.case-group {
+    padding-right: 30px;
+}
+
+.case-fintech {
+    width: 72px;
+    height: 24px;
+    border-radius: 60px;
+    background: #FFF6E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.case-fintech h5 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #FFA217;
+}
+
+.case-group h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #080808;
+    padding: 20px 0 10px 0;
+}
+
+.case-group h6 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #9C9C9C;
+    width: 421px;
+    padding-bottom: 40px;
+}
+
+.case-group button {
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #FFA217;
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.case-group button ion-icon {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.case-general-two {
+    padding: 80px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.case-group-two {
+    padding-left: 30px;
+}
+
+.case-edtech {
+    width: 64px;
+    height: 24px;
+    background: #D0E6FF;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.case-edtech h5 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #000AFF;
+}
+
+.case-group-two h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #080808;
+    padding: 20px 0 10px 0;
+}
+
+.case-group-two h6 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #9C9C9C;
+    width: 421px;
+    padding-bottom: 40px;
+}
+
+.case-group-two button {
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #000AFF;
+    padding: 10px 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.case-group-two button ion-icon {
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.case-general-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.case-group-three {
+    padding-right: 30px;
+}
+
+.case-pharma {
+    background: #E0FFF8;
+    width: 64px;
+    height: 24px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.case-pharma h5 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #2AB090;
+}
+
+.case-group-three h3 {
+    font-size: 24px;
+    font-weight: 800;
+    padding: 20px 0 10px 0;
+}
+
+.case-group-three h6 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #9C9C9C;
+    width: 421px;
+    padding-bottom: 40px;
+}
+
+.case-group-three button {
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    padding: 10px 24px;
+    background: #2AB090;
+    border-radius: 5px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.case-group-three button ion-icon {
+    font-size: 20px;
+    padding-left: 10px;
+}
