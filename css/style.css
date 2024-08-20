@@ -458,3 +458,107 @@ button {
     font-size: 17px;
     padding-left: 10px;
 }
+
+#touch {
+    background: #080808;
+    padding: 90px 0;
+    color: white;
+}
+
+.touch h1 {
+    font-size: 34px;
+    font-weight: 800;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.touch p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    width: 470px;
+    color: #9C9C9C;
+    padding: 10px 0 40px 0;
+    margin: 0 auto;
+}
+
+.touch-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.touch-group-inputs {
+    padding-bottom: 20px;
+}
+
+.touch-group-inputs h3 {
+    font-size: 12px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-bottom: 5px;
+}
+
+.touch-group-inputs input {
+    width: 350px;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #D8D8D8;
+    background: white;
+    padding-left: 12px;
+    outline: none;
+}
+
+.touch-group-textarea h3 {
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 5px;
+}
+
+.touch-group-textarea textarea {
+    width: 350px;
+    height: 120px;
+    border-radius: 4px;
+    border: 1px solid #D8D8D8;
+    background: white;
+    color: #757575;
+    outline: none;
+    padding: 12px 0 0 12px;
+    margin-bottom: 20px;
+}
+
+.touch-group-button button {
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #3F8E00;
+    border: 1px solid #62BA1B;
+    box-shadow: 0px 8px 30px 0px #3F8E004D;
+    padding: 16px 145px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.touch-group-button button ion-icon {
+    color: white;
+    font-size: 17px;
+    padding-left: 10px;
+}
+
+#footer {
+    background: #1B1B1B;
+    padding: 26px 0;
+}
+
+.footer h1 {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #9C9C9C;
+}
